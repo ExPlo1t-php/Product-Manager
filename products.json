@@ -1,0 +1,255 @@
+{
+    "products":[
+        {
+    "id":"23",
+    "icon": "./Assets/images/tuna23.jpg",
+    "name":"Tuna",
+    "price": 8,
+    "category":"Canned Food",
+    "availability":["All regions"],
+    "provider":{
+        "address":"Milan, Italy",
+        "company name":"Bolton"
+    }
+},
+{
+    "id":"12",
+    "icon": "./Assets/images/allp_flour51.jpg",
+    "name":"All purpose flour - 5kg",
+    "price": 20,
+    "category":"Baking Ingredients",
+    "availability":["Northern Regions"],
+    "provider":{
+        "address":"Casablanca, Morocco",
+        "company name":"Tria"
+    }
+},
+{
+    "id":"13",
+    "icon": "./Assets/images/veg_oil12.jpg",
+    "name":"Vegetable oil - 1L",
+    "price": 15,
+    "category":"Oils",
+    "availability":["All regions"],
+    "provider":{
+        "address":"Ahmedabad, India",
+        "company name":"Adani"
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/pasta24.jpg",
+    "name":"Pasta bag - 5Kg",
+    "price": 30,
+    "category":"Pasteries",
+    "availability":["Northern Regions", "Middle Regions"],
+    "provider":{
+        "address":"Casablanca, Morocco",
+        "company name":"Tria"
+    }
+},
+{
+    "id":"54",
+    "icon": "./Assets/images/",
+    "name":"Beans./",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+},
+{
+    "id":"44",
+    "icon": "./Assets/images/",
+    "name":"lobia",
+    "price": 5,
+    "category":"",
+    "availability":[],
+    "provider":{
+        "address":"",
+        "company name":""
+    }
+}
+
+    ],
+    "test": 0,
+    "status" : 404
+ }
+
+    
+
+
+
+
+    
+
