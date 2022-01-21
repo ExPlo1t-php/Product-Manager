@@ -1,8 +1,7 @@
-{
-    "products":[
+[
+
         {
-    "id":"23",
-    "icon": "./Assets/images/tuna23.jpg",
+    "id":"1",
     "name":"Tuna",
     "price": 8,
     "category":"Canned Food",
@@ -13,8 +12,7 @@
     }
 },
 {
-    "id":"12",
-    "icon": "./Assets/images/allp_flour51.jpg",
+    "id":"2",
     "name":"All purpose flour - 5kg",
     "price": 20,
     "category":"Baking Ingredients",
@@ -25,8 +23,7 @@
     }
 },
 {
-    "id":"13",
-    "icon": "./Assets/images/veg_oil12.jpg",
+    "id":"3",
     "name":"Vegetable oil - 1L",
     "price": 15,
     "category":"Oils",
@@ -37,11 +34,10 @@
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/pasta24.jpg",
+    "id":"4",
     "name":"Pasta bag - 5Kg",
     "price": 30,
-    "category":"Pasteries",
+    "category":"Pastries",
     "availability":["Northern Regions", "Middle Regions"],
     "provider":{
         "address":"Casablanca, Morocco",
@@ -49,202 +45,205 @@
     }
 },
 {
-    "id":"54",
-    "icon": "./Assets/images/",
-    "name":"Beans./",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"5",
+    "name":"Beans",
+    "price": 8,
+    "category":"Seeds",
+    "availability":["All regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Sharpsburg, Pennsylvania, United States",
+        "company name":"Heinz"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"6",
+    "name":"chickpeas",
+    "price": 8,
+    "category":"Seeds",
+    "availability":["Middle Regions", "Southern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Sharpsburg, Pennsylvania, United States",
+        "company name":"Heinz"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"9",
+    "name":"Soybeans",
+    "price": 20,
+    "category":"Seeds",
+    "availability":["All regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Sharpsburg, Pennsylvania, United States",
+        "company name":"Heinz"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"10",
+    "name":"Whole chicken",
+    "price": 40,
+    "category":"Meats",
+    "availability":["Southern Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"n/a",
+        "company name":"national farms"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"11",
+    "name":"Tomato Paste",
+    "price": 20,
+    "category":"Canned food",
+    "availability":["Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Contra Costa Centre, California, United States",
+        "company name":"Del Monte Foods"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"12",
+    "name":"Baby Corn",
+    "price": 15,
+    "category":"Canned food",
+    "availability":["Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Contra Costa Centre, California, United States",
+        "company name":"Del Monte Foods"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"13",
+    "name":"Olives",
+    "price": 23,
+    "category":"Canned food",
+    "availability":["All regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Contra Costa Centre, California, United States",
+        "company name":"Del Monte Foods"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"14",
+    "name":"Toast",
+    "price": 40,
+    "category":"Pastries",
+    "availability":["All regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Tokyo, Japan",
+        "company name":"Yamazaki Baking"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"15",
+    "name":"Spaghetti",
+    "price": 20,
+    "category":"Pastries",
+    "availability":["All regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Tokyo, Japan",
+        "company name":"Yamazaki Baking"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"16",
+    "name":"Sugar",
+    "price": 18,
+    "category":"Baking ingredients",
+    "availability":["All regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Tokyo, Japan",
+        "company name":"Yamazaki Baking"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"17",
+    "name":"Beef",
+    "price": 30,
+    "category":"Meats",
+    "availability":["Southern Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"n/a",
+        "company name":"national farms"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"18",
+    "name":"Lamb",
+    "price": 50,
+    "category":"Meats",
+    "availability":["Southern Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"n/a",
+        "company name":"national farms"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"19",
+    "name":"Cream cheese",
+    "price": 25,
+    "category":"Dairy products",
+    "availability":["Middle Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Dubai, United Arab Emirates",
+        "company name":"Crown Dairy Industries L L C"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"20",
+    "name":"Mozzarella",
+    "price": 29,
+    "category":"Dairy products",
+    "availability":["Middle Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Dubai, United Arab Emirates",
+        "company name":"Crown Dairy Industries L L C"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"21",
+    "name":"Yogurt(Flavours)",
+    "price": 3,
+    "category":"Dairy products",
+    "availability":["Middle Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Dubai, United Arab Emirates",
+        "company name":"Crown Dairy Industries L L C"
     }
 },
 {
-    "id":"44",
-    "icon": "./Assets/images/",
-    "name":"lobia",
-    "price": 5,
-    "category":"",
-    "availability":[],
+    "id":"21",
+    "name":"Chedar cheese",
+    "price": 44,
+    "category":"Dairy products",
+    "availability":["Middle Regions", "Northern Regions"],
     "provider":{
-        "address":"",
-        "company name":""
+        "address":"Dubai, United Arab Emirates",
+        "company name":"Crown Dairy Industries L L C"
+    }
+},
+{
+    "id":"21",
+    "name":"Milk",
+    "price": 5,
+    "category":"Dairy products",
+    "availability":["Middle Regions", "Northern Regions"],
+    "provider":{
+        "address":"Dubai, United Arab Emirates",
+        "company name":"Crown Dairy Industries L L C"
+    }
+},
+{
+    "id":"22",
+    "name":"Olive Oil",
+    "price": 40,
+    "category":"Oils",
+    "availability":["Middle Regions"],
+    "provider":{
+        "address":"n/a",
+        "company name":"national farms"
     }
 }
-
-    ],
-    "test": 0,
-    "status" : 404
- }
+    ]
+ 
 
     
 
